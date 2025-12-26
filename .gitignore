@@ -1,0 +1,12 @@
+# ---------- Backend ----------
+backend/venv/
+backend/data/
+backend/__pycache__/
+*.pyc
+
+# ---------- Frontend ----------
+frontend/node_modules/
+
+# ---------- OS / Editor ----------
+.DS_Store
+.vscode/
