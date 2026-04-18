@@ -5,7 +5,7 @@ import pandas as pd
 # 1. SET THIS TO YOUR PATH
 # ===========================
 # Example: r"C:\Users\Shashi\datasets\mimic-iv-3.1"
-MIMIC_IV_ROOT = r"D:\mimic-iv-3.1"  # <-- CHANGE THIS
+MIMIC_IV_ROOT = r"/home/shashidhar/datasets/mimic-iv-3.1"  # <-- CHANGE THIS
 
 # ===========================
 # CONFIG
